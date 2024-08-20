@@ -1,1 +1,1 @@
-# TNDSC_Generativev-AI
+# TNDSC_Generative-AI
